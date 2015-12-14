@@ -18,7 +18,7 @@ what would you like to do? (Please enter corresponding number)
 2. Order a drink 
 3. Access myWallet 
 4. Close my Tab
-5. Log out
+5. Log out/n
 From here, you should first edit your profile info.  It will ask you a series of questions, and when you have answered them all, it will return you to the main menu.  You may now proceed to put money in your account via option 3.  It will ask you what amount you would like to add, and this will be your new balance.  When you return to the main menu, you can now choose option 2 and continue to order drinks until your wallet is empty or you are satiated.  Once your experience at the bar is complete, you can choose option 4 and close your tab.  This will give you a list of drinks you ordered along with the new balance of your wallet after the drink prices have been deducted.
 As a bar manager, you option menu will look like this:
 what would you like to do? (Please enter corresponding number) 
