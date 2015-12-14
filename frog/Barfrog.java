@@ -35,7 +35,7 @@ public class Barfrog {
 	private static void mainMenu(Bar bar, BarPatron cust, BarManager mgr, myWallet custWallet, myWallet barWallet) {
 		System.out.println("Welcome to BarFrog! ");
 		System.out.println("...Helping you master your night. ");
-		System.out.println("  @..@");
+		System.out.println("  @..@ ");
 		System.out.println(" (____)");
 		System.out.println("(>____<)");
 		System.out.println(" ^^~~^^");
